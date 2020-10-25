@@ -3,3 +3,6 @@
 
 # but do track contributing.txt, even though you're ignoring .txt files above
 !LICENSE.txt
+
+
+# try the glob
